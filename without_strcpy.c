@@ -3,7 +3,7 @@
 int main()
 {
     // s1 is the source( input) string and s2 is the destination string
-    char s1[] = "GeeksforGeeks", s2[100], i;
+    char s1[] = "bannysha", s2[100], i;
   
     // Print the string s1
     printf("string s1 : %s\n", s1);
